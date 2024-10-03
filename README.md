@@ -1,0 +1,1 @@
+# plugins-swifty-image-widget
